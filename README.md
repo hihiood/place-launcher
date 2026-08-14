@@ -21,6 +21,13 @@
 - 실행 로그 보는 법
 - 자주 묻는 것
 
+## 엑셀 양식
+
+매장·검색어를 적는 `secret.xlsx` 양식입니다. 받아서 이름을 `secret.xlsx` 로 바꾸고
+실행 파일과 같은 폴더에 두세요.
+
+**[📄 secret.xlsx 템플릿 내려받기](https://github.com/hihiood/place-launcher/raw/main/docs/secret_%ED%85%9C%ED%94%8C%EB%A6%BF.xlsx)**
+
 ## 설치 / 실행
 
 1. 위 링크로 받은 `PlaceLauncherV10.exe` 를 실행합니다.
