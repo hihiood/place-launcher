@@ -48,7 +48,7 @@
 프로그램은 실행 파일과 **같은 폴더**에 있는 `secret.xlsx` 를 읽습니다.
 아래 템플릿을 받아 매장 정보만 채워 넣으세요.
 
-### **[📄 secret.xlsx 템플릿 내려받기](secret_템플릿.xlsx)**
+### **[📄 secret.xlsx 템플릿 내려받기](https://github.com/hihiood/place-launcher/raw/main/docs/secret_%ED%85%9C%ED%94%8C%EB%A6%BF.xlsx)**
 
 받은 파일의 이름을 **`secret.xlsx`** 로 바꿔 실행 파일 옆에 두시면 됩니다.
 
